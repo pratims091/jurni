@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/pratims091/jurni-backend
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:pratims091/jurni-web-app.git
